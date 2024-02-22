@@ -190,8 +190,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    # output: true
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
