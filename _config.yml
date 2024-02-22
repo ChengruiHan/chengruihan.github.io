@@ -21,8 +21,8 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  location         : "Yunnan University, China"
+  orcid            : # "http://orcid.org/yourorcidurl"
   employer         :
   email            :  "hanchengrui@stu.ynu.edu.cn"
   uri              :
