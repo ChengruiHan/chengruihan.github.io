@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <br>
+
 Education
 ======
 * B.S. in Yunnan University, China 2021-2025
