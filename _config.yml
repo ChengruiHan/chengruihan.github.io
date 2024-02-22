@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "jerry's home"
+title                    : "Jerry's Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,14 +24,14 @@ author:
   location         : "Location"
   orcid            : "http://orcid.org/yourorcidurl"
   employer         :
-  email            :  
+  email            :  "hanchengrui@stu.ynu.edu.cn"
   uri              :
 
   # Manuscript repositories
-  arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  arxiv            : # "https://arxiv.org/user/" # Update with the correct link to your profile
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
