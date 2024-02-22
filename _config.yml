@@ -18,7 +18,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   name             : "Chengrui Han"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "Awe of nature, love of life"
   pronouns         : # example: "she/her"
   location         : "Yunnan University, China"
