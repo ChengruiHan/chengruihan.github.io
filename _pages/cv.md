@@ -11,19 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in China, Yunnan University, 2025
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.S. in Yunnan University, China 2021-2025
   
 Skills
 ======
