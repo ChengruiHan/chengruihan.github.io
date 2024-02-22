@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://chengruihan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://chengruihan.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -41,7 +42,8 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "https://github.com/ChengruiHan"
+  github           : ""
+  # github           : "https://github.com/ChengruiHan"
   goodreads        :
   google_plus      :
   keybase          :
