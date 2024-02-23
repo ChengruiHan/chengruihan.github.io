@@ -11,7 +11,7 @@ Welcome to my home.
 
 I am an undergraduate majoring in data science and big data technology.
 
-Mathematica is the language of nature. I firmly believe numbers and geometry imply the whole mathematics. Many great 
+Mathematics is the language of nature. I firmly believe numbers and geometry imply the whole mathematics. Many great 
 theories tend to be extremely mathematically elegant. 
 
 I'm obsessed with neural networks and trying to build a theory of neural network systems through rigorous mathematical theory.
