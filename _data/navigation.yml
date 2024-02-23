@@ -16,7 +16,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts(beta)"
+  - title: "Blog Posts"
     url: /year-archive/
     
   # - title: "Guide"
