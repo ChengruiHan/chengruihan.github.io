@@ -17,4 +17,4 @@ Education
 Research Interest
 ======
 * Machine Learning Theory especially Neural Networks
-* Mathematics especially Geometry
+* Mathematics especially Geometry and Probability
