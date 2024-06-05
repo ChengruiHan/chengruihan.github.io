@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Yunnan University, China 2021-2025
+* B.E. in Yunnan University, China 2021-2025
 
 Research Interest
 ======
